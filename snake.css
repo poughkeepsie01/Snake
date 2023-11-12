@@ -1,0 +1,10 @@
+body{
+    font-family: 'Courier New' , Courier, monospace;
+    text-align: center;
+}
+.background{
+    width: auto;
+     height: 100vh;
+    background-position: center;
+    background-image: url(snek.jpg);
+}
