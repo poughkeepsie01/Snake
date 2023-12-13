@@ -8,6 +8,6 @@ body{
     background-position: center;
     background-image: url(snek.jpg);
 }
-h1 {
-    background-color: white
+.title {
+    background-color: white;
 }
