@@ -1,7 +1,11 @@
+html{
+    overflow: hidden;
+}
+
 body{
     font-family: 'Courier New' , Courier, monospace;
     text-align: center;
-    overflow: hidden;
+   
 }
 .background{
     width: auto;
